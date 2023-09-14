@@ -1,4 +1,4 @@
-//Write an inline function using C== to find largest of three numbers.
+//Write an inline function using C++ to find largest of three numbers.
 #include <iostream>
 using namespace std;
 
